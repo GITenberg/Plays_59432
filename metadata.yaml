@@ -1,0 +1,32 @@
+_repo: Plays_59432
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Cook, George Cram
+    gutenberg_agent_id: '50448'
+    url: http://www.gutenberg.org/2009/agents/50448
+creator:
+  author:
+    agent_name: Glaspell, Susan
+    aliases:
+    - Cook, Mrs. George Cram
+    - Cook, Susan
+    - Glaspel, Susan
+    birthdate: 1876
+    deathdate: 1948
+    gutenberg_agent_id: '2446'
+    url: http://www.gutenberg.org/2009/agents/2446
+    wikipedia: http://en.wikipedia.org/wiki/Susan_Glaspell
+description: ''
+gutenberg_issued: '2019-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Plays
+url: http://www.gutenberg.org/ebooks/59432
